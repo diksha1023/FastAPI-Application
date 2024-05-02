@@ -1,0 +1,5 @@
+#these files shouldnt be updated on github
+__pycache__
+venv/
+.env
+#.env contains all the database credentials and other critical info
